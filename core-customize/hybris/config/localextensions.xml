@@ -27,9 +27,9 @@
     <extension name='backofficesolrsearch' />
     <extension name='platformbackoffice' />
     <extension name='ybackoffice' />
-    <!--<extension name='yacceleratorbackoffice' />-->
+    <!--<extension name='yacceleratorbackoffice' />
     <extension name='yacceleratorcore' />
-    <extension name='yacceleratorstorefront' />
+    <extension name='yacceleratorstorefront' /> -->
     <extension name='basecommerce' />
     <extension name='basecommercebackoffice' />
     <extension name='payment' />
@@ -103,7 +103,7 @@
     <extension name='warehousingbackoffice' />
     <extension name='warehousingfacades' />
     <extension name='warehousingwebservices' />
-    <extension name='yacceleratorordermanagement' />
+   <!--<extension name='yacceleratorordermanagement' />-->
     <extension name='personalizationcms' />
     <extension name='personalizationcmsbackoffice' />
     <extension name='personalizationcmsweb' />
@@ -186,6 +186,14 @@
     <!--<extension name='azurecloudhotfolder' />
     <extension name='cloudcommons' />
     <extension name='cloudhotfolder' />-->
+    
+     <extension  name='itribemedicinecore'/>
+     <extension name='itribemedicinebackoffice'/>
+     <extension name='itribemedicinefacades'/>
+     <extension name='itribemedicinefulfilmentprocess'/>
+     <extension name='itribemedicineinitialdata'/>
+     <extension name='itribemedicinetest'/>
+     <extension name='itribemedicinestorefront'/>
 
   </extensions>
 </hybrisconfig>
